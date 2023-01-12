@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 """
-     A method that calculates the fewest number of operations needed to result in exactly n H characters.
+     A method that calculates the fewest number of operations needed to result.
 """
 
 
